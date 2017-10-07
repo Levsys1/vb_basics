@@ -1,0 +1,12 @@
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\bin\Debug\vb_basics.exe.config
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\bin\Debug\vb_basics.exe
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\bin\Debug\vb_basics.pdb
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\bin\Debug\vb_basics.xml
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.vbprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.Form1.resources
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.Resources.resources
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.vbproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.exe
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.xml
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.pdb
