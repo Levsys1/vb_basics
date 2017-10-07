@@ -22,20 +22,10 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.txtName = New System.Windows.Forms.TextBox()
         Me.btnMessage = New System.Windows.Forms.Button()
+        Me.lblMessage = New System.Windows.Forms.Label()
         Me.SuspendLayout()
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(46, 27)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(84, 13)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Enter your name"
         '
         'Label2
         '
@@ -46,40 +36,38 @@ Partial Class Form1
         Me.Label2.TabIndex = 1
         Me.Label2.Text = "By J.Levy 06/10/2017"
         '
-        'txtName
-        '
-        Me.txtName.Location = New System.Drawing.Point(157, 24)
-        Me.txtName.Name = "txtName"
-        Me.txtName.Size = New System.Drawing.Size(182, 20)
-        Me.txtName.TabIndex = 2
-        '
         'btnMessage
         '
-        Me.btnMessage.Location = New System.Drawing.Point(49, 60)
+        Me.btnMessage.Location = New System.Drawing.Point(31, 25)
         Me.btnMessage.Name = "btnMessage"
         Me.btnMessage.Size = New System.Drawing.Size(75, 40)
         Me.btnMessage.TabIndex = 3
         Me.btnMessage.Text = "Click for message"
         Me.btnMessage.UseVisualStyleBackColor = True
         '
+        'lblMessage
+        '
+        Me.lblMessage.Location = New System.Drawing.Point(157, 37)
+        Me.lblMessage.Name = "lblMessage"
+        Me.lblMessage.Size = New System.Drawing.Size(208, 17)
+        Me.lblMessage.TabIndex = 4
+        Me.lblMessage.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(377, 116)
+        Me.Controls.Add(Me.lblMessage)
         Me.Controls.Add(Me.btnMessage)
-        Me.Controls.Add(Me.txtName)
         Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
         Me.Text = "My first program in VB"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
-
-    Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
-    Friend WithEvents txtName As TextBox
     Friend WithEvents btnMessage As Button
+    Friend WithEvents lblMessage As Label
 End Class

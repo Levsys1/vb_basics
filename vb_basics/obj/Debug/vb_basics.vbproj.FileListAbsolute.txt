@@ -10,3 +10,4 @@ C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.vbpro
 C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.exe
 C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.xml
 C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.pdb
+C:\Users\Jonathan\Documents\GitHub\vb_basics\vb_basics\obj\Debug\vb_basics.Calculation.resources

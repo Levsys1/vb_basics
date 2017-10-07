@@ -3,7 +3,8 @@
         'code for the message button
         'By J.levy 06/10/17
         Dim name As String
-        name = txtName.Text
-        MsgBox("Welcome to VB " & name)
+        name = InputBox("Enter your name")
+        'MsgBox("Welcome to VB " & name)
+        lblMessage.Text = "Welcome to VB " & name
     End Sub
 End Class
